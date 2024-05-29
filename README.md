@@ -4,7 +4,7 @@ const odran = {
   pronouns: "he" || "him",
   languages: [Spanish, English(A2)]
   code: [Javascript, CSS, HTML],
-  editor: "Visual Studio Code" || "VSC",
+  editor: ["Visual Studio Code", "Aptugo"],
 ```
 ![Odran GitHub Stats](https://github-readme-stats.vercel.app/api?username=odran21&show_icons=true)
 
